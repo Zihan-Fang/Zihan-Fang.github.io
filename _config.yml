@@ -85,7 +85,7 @@ author:
   bio              : "Phone: +86 15373425502  Email: 19210720032@fudan.edu.cn"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -176,15 +176,12 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
+  experiences:
     output: true
     permalink: /:collection/:path/
 
@@ -227,24 +224,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _experiences
   - scope:
       path: ""
-      type: portfolio
+      type: experiences
     values:
       layout: single
       author_profile: true
       share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-
+      comments: true
+  
 # Sass/SCSS
 sass:
   sass_dir: _sass

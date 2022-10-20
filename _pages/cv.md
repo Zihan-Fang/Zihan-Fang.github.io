@@ -9,24 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 I'm Zihan Fang, a graduate student at Fudan University, majoring in Electrical Engineering. 
 I will get a master's degree in July 2023.
 
@@ -36,46 +19,37 @@ Email: 19210720032@fudan.edu.cn
 
 Address: Science Building, Room 608, Handan Road, Fudan University, China
 
-### **Research Interests**
 
-- Time synchronization, Wireless sensor networks(WSNs), Embedded system, FPGA
+Research Interests
+======
+* Time synchronization, Wireless sensor networks(WSNs), Embedded system, FPGA
 
-### **Education**
+Education
+======
+* Fudan University (M.S.)
+  * September 2019 - Present
+  * Electrical Engineering
+  * GPA 3.33/4.0
+  * Supervisor: Prof. Qiyong Lu
 
-- **Fudan University (M.S.)**
+* Southesat University (B.S.)
+  * September 2015 - June 2019
+  * Electrical Engineering
+  * GPA 3.86/4.0
 
-    September 2019 - Present
+Experience
+======
+* Research Project (March 2020 - October 2021)
+  * Consensus delay compensated time synchronization in WSNs
 
-    Electrical Engineering
+* Research Assistant in FPGA Project (January 2022 - Present)
+  * design a data acquisition scheme based on Virtex-7 FPGA calibration algorithm.
 
-    GPA 3.33/4.0
+* Summer intern in Wechat development (June 2021 - August 2021)
+  * integrate various protocol interface to form an unified authentication platform.
 
-    Supervisor: Prof. Qiyong Lu
+Publications
+======
+* <ins>Z. Fang<ins> and Y. Gao, "[Delay Compensated One-way Time Synchronization in Distributed Wireless Sensor Networks](https://ieeexplore.ieee.org/document/9825722)," IEEE Wireless Communications Letters, 2022, doi: 10.1109/LWC.2022.3189744.
 
-- **Southesat University (B.S.)**
-
-    September 2015 - June 2019
-
-    Electrical Engineering
-
-    GPA 3.86/4.0
-
-### **Experience**
-
-- **Research Project (March 2020 - October 2021)**
-
-    Consensus delay compensated time synchronization in WSNs
-
-- **Research Assistant in FPGA Project (January 2022 - Present)**
-
-    design a data acquisition scheme based on Virtex-7 FPGA calibration algorithm.
-
-- **Summer intern in Wechat development (June 2021 - August 2021)**
-
-    integrate various protocol interface to form an unified authentication platform.
-
-### **Publications**
-
-- `Z. Fang` and Y. Gao, "[Delay Compensated One-way Time Synchronization in Distributed Wireless Sensor Networks](https://ieeexplore.ieee.org/document/9825722)," IEEE Wireless Communications Letters, 2022, doi: 10.1109/LWC.2022.3189744.
-
-- Q. Yang, P. Wang, `Z. Fang` and Q. Lu, "[Focus on the visible regions: semantic-guided alignment model for occluded person re-identification](https://www.mdpi.com/1424-8220/20/16/4431/htm)," Sensors, 2020, 20(16): 4431.
+* Q. Yang, P. Wang, <ins>Z. Fang<ins> and Q. Lu, "[Focus on the visible regions: semantic-guided alignment model for occluded person re-identification](https://www.mdpi.com/1424-8220/20/16/4431/htm)," Sensors, 2020, 20(16): 4431.

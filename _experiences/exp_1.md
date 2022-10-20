@@ -1,1 +1,16 @@
 
+---
+title: "Focus on the visible regions: semantic-guided alignment model for occluded person re-identification"
+collection: publications
+permalink: /publication/2020-08-11-Sensors
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2020-08-11
+venue: 'Sensors'
+paperurl: 'https://www.mdpi.com/1424-8220/20/16/4431/htm'
+citation: Q. Yang, P. Wang, `Z. Fang` and Q. Lu. &quot;Focus on the visible regions: semantic-guided alignment model for occluded person re-identification.&quot; <i>Sensors</i>, 2020, 20(16): 4431.' 
+---
+This paper is about the number 1. The number 2 is left for future work.
+
+[Download paper here](https://www.mdpi.com/1424-8220/20/16/4431/htm)
+
+Recommended citation: Q. Yang, P. Wang, `Z. Fang` and Q. Lu, "Focus on the visible regions: semantic-guided alignment model for occluded person re-identification." <i>Sensors</i>. 2020, 20(16): 4431.

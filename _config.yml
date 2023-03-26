@@ -183,7 +183,7 @@ collections:
     permalink: /:collection/:path/
   experiences:
     output: true
-    permalink: 
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -229,7 +229,7 @@ defaults:
       path: ""
       type: experiences
     values:
-      layout: single
+      layout: default
       author_profile: true
       share: true
       comments: true

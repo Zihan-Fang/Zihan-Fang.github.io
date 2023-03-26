@@ -3,7 +3,7 @@
 
 Supervisor: Prof. Qiyong Lu, Department of Electrical Engineering, Fudan University
 
-<img src="/research_area.png" alt="research_area" width="1000" height="800" style="max-width: 400px" class="left">
+<img src="https://fzh1996.github.io/images/research_area.png" alt="research_area" width="1000" height="800" style="max-width: 400px" class="left">
 
   - The unpredictability of message delays in the synchronization process greatly influence the performance of time synchronization in wireless sensor networks.
   - We propose a joint design of delay compensation and one-way synchronization, which achieves estimation of clock parameters and fluctuated message delays at the same time.

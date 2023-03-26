@@ -1,4 +1,13 @@
-### Research Assistant in FPGA Project
+---
+title: "FPGA Project"
+collection: experiences
+permalink: /experience/2022_WCL_DCCKTS
+excerpt: 'Supervisor: Prof. Yue Gao, Department of Computer Science, Fudan University'
+date: January 2022 - June 2023
+venue: ''
+paperurl: '(https://ieeexplore.ieee.org/document/9825722)'
+citation: ''
+---
 
 Supervisor: Prof. Yue Gao, Department of Computer Science, Fudan University
 

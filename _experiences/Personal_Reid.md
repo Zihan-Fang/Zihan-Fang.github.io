@@ -2,7 +2,7 @@
 
 Primary author: Qing. Yang, Department of Electrical Engineering, Fudan University
 
-<img src="/personal_Reid.png" alt="personal_Reid" width="1000" height="800" style="max-width: 400px" class="left" data-proofer-ignore>
+<img src="https://fzh1996.github.io/images/personal_Reid.png" alt="personal_Reid" width="1000" height="800" style="max-width: 400px" class="left" data-proofer-ignore>
 
   - When persons are occluded by various obstacles, the noise caused by the occluded area greatly affects the pedestrian retrieval results.
   - We propose a semantic-guided alignment model that uses image semantic information to separate useful information from occlusion noise.

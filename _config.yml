@@ -183,7 +183,7 @@ collections:
     permalink: /:collection/:path/
   experiences:
     output: true
-    permalink: /:collection/:path/
+    permalink: 
 
 
 # Defaults

@@ -2,8 +2,8 @@
 title: "Delay Compensated One-way Time Synchronization in Distributed Wireless Sensor Networks"
 collection: experiences
 permalink: /experience/2021_Summer_Intern
-excerpt: 'topic: Consensus delay compensated time synchronization in WSNs.'
-date: June 2021 - August 2021
+excerpt: 'June 2021 - August 2021.'
+date: 2021-08-26
 venue: 'IEEE Wireless Communications Letters'
 paperurl: '(https://ieeexplore.ieee.org/document/9825722)'
 citation: 'Z. Fang and Y. Gao, &quot;Delay Compensated One-way Time Synchronization in Distributed Wireless Sensor Networks.&quot; <i>IEEE Wireless Communications Letters</i>. vol. 11, no. 10, pp. 2021-2025, Oct. 2022. doi: 10.1109/LWC.2022.3189744.'

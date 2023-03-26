@@ -5,7 +5,7 @@ permalink: /publication/2020_Sensors_SGAM
 excerpt: 'topic: .'
 date: 2020-07-01
 venue: 'Sensors'
-paperurl: [here](https://fzh1996.github.io/files/ZihanFang_Sensors2020.pdf)
+paperurl: '[here]'(https://fzh1996.github.io/files/ZihanFang_Sensors2020.pdf)
 citation: 'Q. Yang, P. Wang, Z. Fang and Q. Lu. &quot;Focus on the visible regions: semantic-guided alignment model for occluded person re-identification.&quot; <i>Sensors</i>, 2020, 20(16): 4431.'
 ---
 

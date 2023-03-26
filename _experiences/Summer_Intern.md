@@ -1,4 +1,4 @@
-### Summer intern in Wechat development
+### Summer Intern in Wechat Development
 
 Location: Tencent, Guangzhou, Guangdong Provence, China
 

@@ -3,7 +3,7 @@ title: "Delay Compensated One-way Time Synchronization in Distributed Wireless S
 collection: publications
 permalink: /publication/2022_WCL_DCCKTS
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2020-10-01
+date: 2022-12-01
 venue: 'Journal 1'
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://ieeexplore.ieee.org/document/9825722)'
 citation: 'Z. Fang and Y. Gao, &quot;Delay Compensated One-way Time Synchronization in Distributed Wireless Sensor Networks.&quot; <i>IEEE Wireless Communications Letters</i>. doi: 10.1109/LWC.2022.3189744.'

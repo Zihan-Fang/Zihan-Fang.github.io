@@ -2,10 +2,10 @@
 title: "FPGA Project"
 collection: experiences
 permalink: /experience/2023_FPGA_Project
-excerpt: 'Supervisor: Prof. Yue Gao, Department of Computer Science, Fudan University'
-date: January 2022 - June 2023
+excerpt: 'January 2022 - June 2023'
+date: 2023-06-30
 venue: ''
-paperurl: '(https://ieeexplore.ieee.org/document/9825722)'
+paperurl: ''
 citation: ''
 ---
 

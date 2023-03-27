@@ -2,15 +2,12 @@
 main:
   - title: "Publications"
     url: /publications/
-    
+
   - title: "Experiences"
-    url: /experiences/
-  
+    url: /experiences/    
+
   - title: "CV"
     url: /cv/
-
-- title: "Teaching"
-    url: /teaching/
     
- # - title: "Guide"
- #   url: /markdown/
+  - title: "Guide"
+    url: /markdown/

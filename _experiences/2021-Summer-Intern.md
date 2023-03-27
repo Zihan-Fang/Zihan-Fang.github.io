@@ -1,13 +1,11 @@
 ---
 title: "Summer Intern in Wechat Development"
-excerpt: "June 2021 - August 2021"
-permalink: /experience/2021-Summer-Intern
+excerpt: "June 2021 - August 2021<br/><img src='/images/500x300.png'>"
 type: "Tencent"
 date: 2021-08-30
 location: "Guangzhou, Guangdong Provance"
 collection: experience
 ---
-
 
 
   - The current system embeddes verify process within the program, which makes a large number of repeated work and is to difficult to upgrade uniformly. 

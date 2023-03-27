@@ -1,8 +1,8 @@
 ---
 title: "Focus on the visible regions: semantic-guided alignment model for occluded person re-identification"
 collection: publications
-permalink: /publication/2020_Sensors_SGAM
-excerpt: 'topic: .'
+permalink: /publication/2020-Sensors-SGAM
+excerpt: 'topic: a semantic-guided alignment in person re-identification.'
 date: 2020-07-01
 venue: 'Sensors'
 paperurl: '(https://www.mdpi.com/1424-8220/20/16/4431/htm)'

@@ -1,4 +1,12 @@
-
+---
+title: "Summer Intern in Wechat Development"
+excerpt: "June 2021 - August 2021"
+permalink: /experience/2021-Summer-Intern
+venue: "Tencent"
+date: 2021-08-30
+location: "Guangzhou, Guangdong Provance"
+collection: experience
+---
 
 
 

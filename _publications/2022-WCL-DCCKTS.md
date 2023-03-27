@@ -1,7 +1,7 @@
 ---
 title: "Delay Compensated One-way Time Synchronization in Distributed Wireless Sensor Networks"
 collection: publications
-permalink: /publication/2022_WCL_DCCKTS
+permalink: /publication/2022-WCL-DCCKTS
 excerpt: 'topic: Consensus delay compensated time synchronization in WSNs.'
 date: 2022-12-01
 venue: 'IEEE Wireless Communications Letters'

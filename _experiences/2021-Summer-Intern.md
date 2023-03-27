@@ -1,9 +1,9 @@
 ---
 title: "Summer Intern in Wechat Development"
 excerpt: "June 2021 - August 2021<br/><img src='/images/500x300.png'>"
-type: "Tencent"
+venue: "University 1, Department"
 date: 2021-08-30
-locate: "Guangzhou, Guangdong Provance"
+location: "Tencent, Guangzhou, Guangdong Provance
 collection: experience
 ---
 

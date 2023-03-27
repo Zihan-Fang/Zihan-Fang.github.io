@@ -1,11 +1,4 @@
 
-title: "Personal_Reid"
-collection: experiences
-permalink: /experience/2020_Personal_Reid
-excerpt: 'October 2019 - June 2020'
-date: 2020-07-01
-venue: "Primary author: Qing. Yang, Department of Electrical Engineering, Fudan University"
-locate: "Department of Electrical Engineering, Fudan University"
 
 
 <img src="https://fzh1996.github.io/images/personal_Reid.png" alt="personal_Reid" width="1000" height="800" style="max-width: 400px" class="left" data-proofer-ignore>

@@ -1,11 +1,4 @@
 
-title: "Research Project"
-collection: experiences
-permalink: /experience/2021_Research_Project
-excerpt: 'March 2020 - October 2021'
-date: 2021-12-10
-venue: "Supervisor: Prof. Qiyong Lu, Department of Electrical Engineering, Fudan University"
-locate: "Department of Electrical Engineering, Fudan University"
 
 
 <img src="https://fzh1996.github.io/images/research_area.png" alt="research_area" width="1000" height="800" style="max-width: 400px" class="left">

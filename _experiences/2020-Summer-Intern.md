@@ -1,7 +1,6 @@
 ---
 title: "Summer Intern in Wechat Development"
 excerpt: "June 2020 - August 2020"
-venue: "University 1, Department"
 date: 2020-08-30
 location: "Tencent, Guangzhou, Guangdong Provance"
 collection: experience

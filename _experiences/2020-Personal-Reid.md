@@ -1,6 +1,6 @@
 ---
 title: "Personal Reidentification"
-excerpt: "January 2020 - June 2021<br/><img src='/images/personal_Reid.png'>"
+excerpt: "September 2019 - June 2020<br/><img src='/images/personal_Reid.png'>"
 venue: "Primary author: Qing. Yang, Department of Electrical Engineering, Fudan University"
 date: 2021-07-01
 locate: "Department of Electrical Engineering, Fudan University"

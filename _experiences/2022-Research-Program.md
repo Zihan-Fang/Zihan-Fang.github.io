@@ -4,7 +4,7 @@ excerpt: "We propose a joint design of delay compensation and one-way synchroniz
 type: "September 2019 - December 2022"
 venue: "Supervisor: Prof. Qiyong Lu, Department of Electrical Engineering, Fudan University"
 date: 2022-12-01
-collection: teaching
+collection: experience
 ---
 
   - The unpredictability of message delays in the synchronization process greatly influence the performance of time synchronization in wireless sensor networks.

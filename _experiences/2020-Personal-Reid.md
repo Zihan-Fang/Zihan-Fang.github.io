@@ -1,6 +1,6 @@
 ---
 title: "Person Reidentification in EE@Fudan"
-excerpt: "We propose a semantic-guided alignment model that uses image semantic information to separate useful information from occlusion noise.<br/><br/><img src='/images/personal_Reid.png' alt='personal_Reid' width='1600' height='1200' style='max-width: 400px'>"
+excerpt: "We propose a semantic-guided alignment model that uses image semantic information to separate useful information from occlusion noise.<br/><br/><img src='/images/personal_Reid.png'>"
 type: "September 2019 - June 2020"
 venue: "Primary author: Qing. Yang, Department of Electrical Engineering, Fudan University"
 date: 2020-07-01

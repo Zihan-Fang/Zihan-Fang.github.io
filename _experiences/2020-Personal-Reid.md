@@ -1,14 +1,13 @@
 ---
-title: "Personal Reidentification"
-excerpt: "September 2019 - June 2020<br/><img src='/images/personal_Reid.png'>"
+title: "Person Reidentification in EE@Fudan"
+excerpt: "We propose a semantic-guided alignment model that uses image semantic information to separate useful information from occlusion noise.<br/><br/><img src='/images/personal_Reid.png' alt='personal_Reid' width='1600' height='1200' style='max-width: 400px'>"
+type: "September 2019 - June 2020"
 venue: "Primary author: Qing. Yang, Department of Electrical Engineering, Fudan University"
-date: 2021-07-01
-location: "Department of Electrical Engineering, Fudan University"
-type: "Talk"
+date: 2020-07-01
 collection: experience
 ---
 
-<img src="/images/personal_Reid.png" alt="personal_Reid" width="1000" height="800" style="max-width: 400px" class="left" data-proofer-ignore>
+<img src="/images/personal_Reid.png" alt="personal_Reid" width="1600" height="1200" style="max-width: 400px" class="left" data-proofer-ignore>
 
   - When persons are occluded by various obstacles, the noise caused by the occluded area greatly affects the pedestrian retrieval results.
   - We propose a semantic-guided alignment model that uses image semantic information to separate useful information from occlusion noise.

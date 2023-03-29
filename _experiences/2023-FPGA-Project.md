@@ -1,6 +1,6 @@
 ---
 title: "FPGA Project in CS@Fudan"
-excerpt: "A PCIe data acquisition board is designed to verify the hardware and algorithm of 8 ADC time interleaved sampling based on Virtex-7 FPGA.<br/><br/><img src='/images/FPGA_project.png' width='2700' height='900'>"
+excerpt: "A PCIe data acquisition board is designed to verify the hardware and algorithm of 8 ADC time interleaved sampling based on Virtex-7 FPGA.<br/><br/><img src='/images/FPGA_project.png' width='3000' height='900'>"
 type: "January 2022 - June 2023"
 venue: "Supervisor: Prof. Yue Gao, Department of Computer Science, Fudan University"
 date: 2023-06-30

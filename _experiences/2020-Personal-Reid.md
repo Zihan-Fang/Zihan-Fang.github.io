@@ -7,7 +7,7 @@ date: 2020-07-01
 collection: experience
 ---
 
-<img src="/images/personal_Reid.png" alt="personal_Reid" style="max-width: 400px" class="left" data-proofer-ignore>
+<img src="/images/personal_Reid.png" alt="personal_Reid" style="max-width: 800px" class="left" data-proofer-ignore>
 
   - When persons are occluded by various obstacles, the noise caused by the occluded area greatly affects the pedestrian retrieval results.
   - We propose a semantic-guided alignment model that uses image semantic information to separate useful information from occlusion noise.

@@ -1,13 +1,13 @@
 ---
 title: "Research Program in EE@Fudan"
-excerpt: "<p>We propose a joint design of delay compensation and one-way synchronization, which achieves estimation of clock parameters and fluctuated message delays at the same time.</p><img src='/images/research_area.png' alt='research_area' width='1600' height='1200' style='max-width: 500px'>"
+excerpt: "<p>We propose a joint design of delay compensation and one-way synchronization, which achieves estimation of clock parameters and fluctuated message delays at the same time.</p><img src='/images/research_area.png' style='max-width: 500px'>"
 type: "September 2019 - December 2022"
 venue: "Supervisor: Prof. Qiyong Lu, Department of Electrical Engineering, Fudan University"
 date: 2022-12-01
 collection: experience
 ---
 
-<img src="/images/research_area.png" alt="research_area" width="1600" height="1200" style="max-width: 500px" class="left">
+<img src="/images/research_area.png" style="max-width: 500px" class="left">
 
   - The unpredictability of message delays in the synchronization process greatly influence the performance of time synchronization in wireless sensor networks.
   - We propose a joint design of delay compensation and one-way synchronization, which achieves estimation of clock parameters and fluctuated message delays at the same time.

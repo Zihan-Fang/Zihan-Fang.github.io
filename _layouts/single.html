@@ -40,7 +40,7 @@ layout: default
         {% elsif page.collection == 'teaching' %}
           <p>{{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
         {% elsif page.type and page.venue%}
-          <p><code class="highlighter-rouge">Period: {{ page.type }}</code><br/><strong>{{ page.venue-title }}</strong><i>{{ page.venue }}</i></p>
+          <p><code class="highlighter-rouge">Period: {{ page.type }}</code><br/><br/><strong>{{ page.venue-title }}</strong><i>{{ page.venue }}</i></p>
         {% elsif page.venue and page.date %}
           <p><i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
         {% elsif page.date %}

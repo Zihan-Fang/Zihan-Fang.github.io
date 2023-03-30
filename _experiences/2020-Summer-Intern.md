@@ -2,7 +2,7 @@
 title: "Summer Intern in Wechat Development"
 excerpt: "We integrated various protocol interface outside and form an unified authentication platform."
 type: "June 2020 - August 2020"
-venue: "Tencent, Guangzhou, Guangdong Provance"
+venue: "**Location:** Tencent, Guangzhou, Guangdong Provance"
 date: 2020-08-30
 collection: experience
 ---

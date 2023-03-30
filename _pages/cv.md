@@ -22,7 +22,8 @@ Address: Science Building, Room 608, Handan Road, Fudan University, China
 
 Research Interests
 ======
-* Time synchronization, Wireless sensor networks(WSNs), Embedded system, FPGA
+* Wireless sensor networks(WSNs), Embedded system, FPGA
+* Vehicle Networks, V2I Communication
 
 Education
 ======

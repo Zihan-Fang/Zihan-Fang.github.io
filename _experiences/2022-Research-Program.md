@@ -2,7 +2,8 @@
 title: "Research Program in EE@Fudan"
 excerpt: "<p>We propose a joint design of delay compensation and one-way synchronization, which achieves estimation of clock parameters and fluctuated message delays at the same time.</p><img src='/images/research_area.png' style='max-width: 500px'>"
 type: "September 2019 - December 2022"
-venue: "**Supervisor:** Prof. Qiyong Lu, Department of Electrical Engineering, Fudan University"
+venue-title: "Supervisor:"
+venue: " Prof. Qiyong Lu, Department of Electrical Engineering, Fudan University"
 date: 2022-12-01
 collection: experience
 ---

@@ -12,7 +12,7 @@ Fang Zihan received a BEng. degree in Electrical Engineering from Southeast Univ
 
 Phone: +86 15373425502
 
-Email: 19210720032@fudan.edu.cn
+Email: zihan_f@163.com
 
 Address: Science Building, Room 608, Handan Road, Fudan University, China
 

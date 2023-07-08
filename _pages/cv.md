@@ -11,24 +11,25 @@ redirect_from:
 
 
 I'm Zihan Fang, a graduate student at Fudan University, majoring in Electrical Engineering. 
-I will get a master's degree in July 2023.
+I currently pursue my PhD. degree in Computer Science at City University of Hong Kong.
 
 Phone: +86 15373425502
 
-Email: 19210720032@fudan.edu.cn 
+Email: zihan_f@163.com
 
 Address: Science Building, Room 608, Handan Road, Fudan University, China
 
 
 Research Interests
 ======
-* Wireless sensor networks(WSNs), Embedded system, FPGA
-* Vehicle Networks, V2I Communication
+* Wireless AI/Machine Learning/Federated Learning, Embedded system, FPGA
+* Vehicle Networks, V2I Communication, Wireless Networks
+* Connected and Autonomous Driving, Mobile/Edge Computing
 
 Education
 ======
 * Fudan University (M.S.)
-  * September 2019 - Present
+  * September 2019 - January 2023
   * Electrical Engineering
   * GPA 3.33/4.0
   * Supervisor: Prof. Qiyong Lu
@@ -43,7 +44,7 @@ Experience
 * Research Project (March 2020 - October 2021)
   * Consensus delay compensated time synchronization in WSNs
 
-* Research Assistant in FPGA Project (January 2022 - Present)
+* Research Assistant in FPGA Project (January 2022 - July 2023)
   * design a data acquisition scheme based on Virtex-7 FPGA calibration algorithm.
 
 * Summer intern in Wechat development (June 2021 - August 2021)

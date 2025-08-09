@@ -56,6 +56,14 @@ Experience
   * integrate various protocol interface to form an unified authentication platform.
 -->
 
+Academic Service
+======
+* IEEE Transactions on Mobile Computing
+* Information Fusion
+* ACM Multimedia
+
+
+
 Publications
 ======
 <!-- 
@@ -67,8 +75,10 @@ Publications
  `Z. Fang`, Z. Lin., Z. Chen, X. Chen, Y. Gao, and Y. Fang, "[”Automated federated pipeline for parameter-efficient fine-tuning of large language models] (https://arxiv.org/pdf/2404.06448)," 2024.
 
  
-
- 3. H. Yuan, Z. Chen, Z. Lin, J. Peng, Z. Fang, Y. Zhong, Z. Song, and Y. Gao.
+1. Z. Fang, Z. Lin., Z. Chen, X. Chen, Y. Gao, and Y. Fang. ”Automated federated
+pipeline for parameter-efficient fine-tuning of large language models,” 2024, arXiv
+preprint arXiv:2404.06448.
+3. H. Yuan, Z. Chen, Z. Lin, J. Peng, Z. Fang, Y. Zhong, Z. Song, and Y. Gao.
 ”Satsense: multi-satellite collaborative framework for spectrum sensing,” 2024, IEEE
 Transactions on Cognitive Communications and Networking, major revision.
 4. J. Peng, Z. Chen, Z. Lin, H. Yuan, Z. Fang, L. Bao, Z. Song, Y. Li, J. Ren, and Y.

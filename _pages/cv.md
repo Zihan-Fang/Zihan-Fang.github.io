@@ -17,28 +17,33 @@ Phone: +86 15373425502
 
 Email: zihan_f@163.com
 
-Address: Science Building, Room 608, Handan Road, Fudan University, China
-
+<!-- Address: Science Building, Room 608, Handan Road, Fudan University, China -->
 
 Research Interests
 ======
-* Wireless AI/Machine Learning/Federated Learning, Embedded system, FPGA
-* Vehicle Networks, V2I Communication, Wireless Networks
-* Connected and Autonomous Driving, Mobile/Edge Computing
+* Multimodal Fusion, LLM Fine-tuning
+* Distributed machine learning, Mobile/Edge Computing
+* Connected and Autonomous Driving, Vehicle Networks
 
 Education
 ======
+* City University of Hong Kong (Ph.D.)
+  * September 2023 - now
+  * Computer Science
+  * Supervisor: Prof. Yuguang "Michael" Fang
+
 * Fudan University (M.S.)
   * September 2019 - January 2023
   * Electrical Engineering
   * GPA 3.33/4.0
-  * Supervisor: Prof. Qiyong Lu
+  * Supervisor: Prof. Yue Gao
 
 * Southesat University (B.S.)
   * September 2015 - June 2019
   * Electrical Engineering
   * GPA 3.86/4.0
 
+<!-- 
 Experience
 ======
 * Research Project (March 2020 - October 2021)
@@ -49,6 +54,7 @@ Experience
 
 * Summer intern in Wechat development (June 2021 - August 2021)
   * integrate various protocol interface to form an unified authentication platform.
+-->
 
 Publications
 ======

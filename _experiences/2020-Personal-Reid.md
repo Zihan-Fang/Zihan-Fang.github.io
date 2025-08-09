@@ -5,8 +5,8 @@ type: "September 2019 - June 2020"
 venue-title: "Primary author:"
 venue: " Qing. Yang, Department of Electrical Engineering, Fudan University"
 date: 2020-07-01
-collection: experience
 ---
+<!-- collection: experience -->
 
 <img src="/images/personal_Reid.png" alt="personal_Reid" style="max-width: 600px" class="left" data-proofer-ignore>
 

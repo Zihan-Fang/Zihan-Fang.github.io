@@ -25,7 +25,7 @@ Research Interests
 
 Recent Publications
 ======
- `Z. Fang`, Z. Lin., Z. Chen, X. Chen, Y. Gao, and Y. Fang, "[Automated federated pipeline for parameter-efficient fine-tuning of large language models] (https://arxiv.org/pdf/2404.06448)," 2024.
+ `Z. Fang`, Z. Lin., Z. Chen, X. Chen, Y. Gao, and Y. Fang, ["Automated federated pipeline for parameter-efficient fine-tuning of large language models"] (https://arxiv.org/pdf/2404.06448)," 2024.
 
  
 1. Z. Fang, Z. Lin., Z. Chen, X. Chen, Y. Gao, and Y. Fang. ”Automated federated

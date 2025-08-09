@@ -11,9 +11,9 @@ title                    : "Fang Zihan(方子涵)"
 title_separator          : "-"
 name                     : &name "Fang Zihan(方子涵)"
 description              : &description "personal description"
-url                      : https://FZH1996.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zihan-fang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "FZH1996/FZH1996.github.io"
+repository               : "Zihan-Fang/zihan-fang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,10 +83,10 @@ author:
   name             : "Fang Zihan"
   avatar           : "profile.png"
   bio              : "Phone: +86 15373425502    Email: zihan_f@163.com"
-  location         : "Shanghai, China"
+  location         : "HongKong, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "FZH1996"
+  github           : "Zihan-Fang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

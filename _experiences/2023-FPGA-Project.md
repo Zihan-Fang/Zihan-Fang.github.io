@@ -8,7 +8,7 @@ date: 2023-06-30
 collection: experience
 ---
 
-# <img src="/images/FPGA_project.png" style="max-width: 600px" class="left" data-proofer-ignore>
+<img src="/images/FPGA_project.png" style="max-width: 500px" class="left" data-proofer-ignore>
   
   - A PCIe data acquisition board is designed to verify the hardware and algorithm of 8 ADC time interleaved sampling based on Virtex-7 FPGA.
   - 8 ADCs with a sampling rate greater than 50MSPS and a quantization accuracy of 14bits is adopted. 

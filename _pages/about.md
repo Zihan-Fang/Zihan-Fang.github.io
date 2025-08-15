@@ -25,7 +25,7 @@ Research Interests
 
 Recent Publications
 ======
-**Z. Fang**, Z. Lin, S. Hu, Y. Tao, Y. Deng, X. Chen, and Y. Fang, "Dynamic Uncertainty-aware Multimodal Fusion for Outdoor Health Monitoring", submitted to IEEE TMC, 2025.
+**Z. Fang**, Z. Lin, S. Hu, Y. Tao, Y. Deng, X. Chen, and Y. Fang, ["Dynamic Uncertainty-aware Multimodal Fusion for Outdoor Health Monitoring"](https://arxiv.org/pdf/2508.09085), submitted to IEEE TMC, 2025.
 
 **Z. Fang**, Z. Lin, Z. Chen, X. Chen, Y. Gao, and Y. Fang, ["Automated federated pipeline for parameter-efficient fine-tuning of large language models"](https://arxiv.org/pdf/2404.06448), 2024.
 

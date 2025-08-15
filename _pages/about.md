@@ -27,6 +27,6 @@ Recent Publications
 ======
 **Z. Fang**, Z. Lin, S. Hu, Y. Tao, Y. Deng, X. Chen, and Y. Fang, ["Dynamic Uncertainty-aware Multimodal Fusion for Outdoor Health Monitoring"](https://arxiv.org/pdf/2508.09085), submitted to IEEE TMC, 2025.
 
-**Z. Fang**, Z. Lin, Z. Chen, X. Chen, Y. Gao, and Y. Fang, ["Automated federated pipeline for parameter-efficient fine-tuning of large language models"](https://arxiv.org/pdf/2404.06448), 2024.
+**Z. Fang**, Z. Lin, Z. Chen, X. Chen, Y. Gao, and Y. Fang, ["Automated federated pipeline for parameter-efficient fine-tuning of large language models"](https://arxiv.org/pdf/2404.06448), submitted to IEEE TMC, 2024.
 
-**Z. Fang**, Z Lin, S Hu, H Cao, Y Deng, X Chen, and Y Fang, ["IC3M: In-Car Multimodal Multi-object Monitoring for Abnormal Status of Both Driver and Passengers"](https://arxiv.org/pdf/2410.02592), 2024.
+**Z. Fang**, Z Lin, S Hu, H Cao, Y Deng, X Chen, and Y Fang, ["IC3M: In-Car Multimodal Multi-object Monitoring for Abnormal Status of Both Driver and Passengers"](https://arxiv.org/pdf/2410.02592), submitted to IEEE TPDS, 2024.

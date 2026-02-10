@@ -62,7 +62,7 @@ Academic Service
 * IEEE Journal on Selected Areas in Communications
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition
 * European Conference on Computer Vision
-* * ACM Multimedia
+* ACM Multimedia
 * Information Fusion
 
 

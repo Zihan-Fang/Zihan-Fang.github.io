@@ -59,8 +59,11 @@ Experience
 Academic Service
 ======
 * IEEE Transactions on Mobile Computing
+* IEEE Journal on Selected Areas in Communications
+* IEEE/CVF Conference on Computer Vision and Pattern Recognition
+* European Conference on Computer Vision
+* * ACM Multimedia
 * Information Fusion
-* ACM Multimedia
 
 
 <!---

@@ -29,7 +29,7 @@ Recent Publications
 
 **Z. Fang**, Z. Lin, S. Hu, Y. Ma, Y. Tao, Y. Deng, X. Chen, and Y. Fang, ["HFedMoE: Resource-aware heterogeneous federated learning with mixture-of-experts"](https://arxiv.org/pdf/2601.00583), IEEE TMC major review, 2026.
 
-**Z. Fang**, Z. Lin, S. Hu, Y. Tao, Y. Deng, X. Chen, and Y. Fang, ["Dynamic Uncertainty-aware Multimodal Fusion for Outdoor Health Monitoring"](https://arxiv.org/pdf/2508.09085), IEEE Transactions on Mobile Computing, 2026.
+**Z. Fang**, Z. Lin, S. Hu, Y. Tao, Y. Deng, X. Chen, and Y. Fang, ["Dynamic Uncertainty-aware Multimodal Fusion for Outdoor Health Monitoring"](https://ieeexplore.ieee.org/document/11482517), IEEE Transactions on Mobile Computing, 2026.
 
 **Z. Fang**, Z. Lin, Z. Chen, X. Chen, Y. Gao, and Y. Fang, ["Automated federated pipeline for parameter-efficient fine-tuning of large language models"](https://ieeexplore.ieee.org/document/11320816), IEEE Transactions on Mobile Computing, 2025.
 

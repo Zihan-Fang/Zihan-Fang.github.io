@@ -61,9 +61,18 @@ Academic Service
 * IEEE Transactions on Mobile Computing
 * IEEE Journal on Selected Areas in Communications
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition
-* European Conference on Computer Vision
+* Advances in Neural Information Processing Systems
 * ACM Multimedia
+* European Conference on Computer Vision
+* IEEE International Conference on Computer Communications
 * Information Fusion
+
+Teaching Experience
+======
+* CS5297 Topics in Al Security (2026 Spring)
+* CS5285 Info Security for eCommerce (2025 Fall)
+* CS1302 Intro to Comp Progm'g (2025 Spring)
+* CS1302 Intro to Comp Progm'g (2024 Fall)
 
 
 <!---
